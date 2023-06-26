@@ -1,0 +1,3 @@
+# Calculator
+*Calculates basic algorithms*
+
